@@ -1,1 +1,1 @@
-这是一份基于STM32F407VGT6(FreeRTOS)的ROS小车底盘代码（电机为42步进电机），接口丰富、扩展性强
+This is a ROS vehicle chassis code based on STM32F407VGT6 (with FreeRTOS) for a small vehicle (the motor is a 42-step motor), with rich interfaces and strong expandability.
